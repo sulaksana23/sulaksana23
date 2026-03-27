@@ -1,54 +1,64 @@
-# Hi 👋, I'm Bayu
+<h1 align="center">Hi 👋, I'm Bayu</h1>
+<h3 align="center">🚀 Fullstack Developer | Laravel • Next.js • React • Vue</h3>
 
-💻 Fullstack Developer (Laravel, Next.js, React, Vue)
-🚀 Building modern web apps & authentication systems
-🌱 Currently learning scalable architecture & backend systems
+<p align="center">
+Building scalable web applications & modern authentication systems 🔐
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 About Me
+- 💼 Fullstack Developer with focus on **modern web apps**
+- ⚡ Specialized in **authentication systems & backend architecture**
+- 🌱 Currently learning **scalable system design & performance optimization**
+- 🌍 Open for **remote freelance (Upwork ready)**
+
+---
+
+## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-
-* Next.js
-* React
-* Vue.js
-* Tailwind CSS
+- Next.js
+- React
+- Vue.js
+- Tailwind CSS
 
 ### ⚙️ Backend
+- Laravel
+- Node.js
 
-* Laravel
-* Node.js
-
-### 💻 Language
-
-* TypeScript
-* JavaScript
-* PHP
+### 💻 Languages
+- TypeScript
+- JavaScript
+- PHP
 
 ---
 
 ## 📌 Featured Project
 
-🔐 **nexjs-login-register**
-Authentication system built with Next.js, TypeScript, and Tailwind CSS
+### 🔐 Authentication System
+**Tech:** Next.js • TypeScript • Tailwind CSS  
+- Secure login & register system  
+- Clean UI & modern architecture  
+- Ready for production use  
+
+👉 https://github.com/sulaksana23/nextjs-login-register
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sulaksana23\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sulaksana23\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔗 Connect with me
-
-* 📧 Email: [balitechsolution1@gmail.com](mailto:balitechsolution1@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulaksana23&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🤝 Let's Connect
+- 💼 Upwork: (isi nanti)
+- 📧 Email: balitechsolution1@gmail.com
+- 🌐 Portfolio: (kalau ada)
 
-I love building clean UI & scalable backend systems 🚀
+---
+
+⭐ *Open to freelance & collaboration*
